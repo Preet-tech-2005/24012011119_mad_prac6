@@ -49,6 +49,7 @@ class SplashActivity : AppCompatActivity(), Animation.AnimationListener {
     }
 
     override fun onAnimationEnd(animation: Animation?) {
+        Intent(this,MainActivity::class.java).also {startActivity(it) }
 
 
 
