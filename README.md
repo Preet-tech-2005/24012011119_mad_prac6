@@ -122,4 +122,4 @@ The main screen provides the following functionality:
 
 ## 🔗 Source Code
 
-**GitHub Repository:** 
+
