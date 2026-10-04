@@ -84,7 +84,7 @@ The main screen provides the following functionality:
 
 ### 🎬 Demo Video
 
-[<video src="https://github.com/Preet-tech-2005/24012011119_mad_prac6/blob/master/Screenrecording/Screen_recording_20261004_2121041.webm" controls width="320"></video>](https://github.com/user-attachments/assets/3fbaf0cb-348e-454e-af34-1090a8b99735)
+[<video src="https://github.com/Preet-tech-2005/24012011119_mad_prac6/blob/master/Screenrecording/Screen_recording_20261004_2121041.webm" controls width="320"></video>](https://github.com/user-attachments/assets/e102655d-bcdd-4e6a-afd9-5131dc12629b)
 
 ---
 
