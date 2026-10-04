@@ -2,8 +2,8 @@
 
 ## 👤 Author
 
-**Name:** Nihal Shah
-**Enrollment No.:** 24012011175
+**Name:** Preet Patel
+**Enrollment No.:** 24012011119
 
 ---
 
